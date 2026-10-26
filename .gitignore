@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.sqlite
+*.db
+config.php
+install.php
+uploads/
+fotos/
+*.zip
+version-anterior.html
+version-v2.html
+version-supabase.html
